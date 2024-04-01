@@ -1,7 +1,9 @@
 # Identifying Attack-Specific Signatures in Adversarial Examples
 This repository is the official implementation of the [Identifying Attack-Specific Signatures in Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10446989). 
 
-
+<p align="center">
+  <img src="REDRLMethod.png" alt="Overview" width="65%" height="auto"/>
+</p>
 ## Getting Started 
 
 Clone this repository into a directory of your choosing with the following command:
