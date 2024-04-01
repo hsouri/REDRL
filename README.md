@@ -1,5 +1,6 @@
 # Identifying Attack-Specific Signatures in Adversarial Examples
-This repository is the official implementation of the Identifying Attack-Specific Signatures in Adversarial Examples.
+This repository is the official implementation of the [Identifying Attack-Specific Signatures in Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10446989). 
+
 
 ## Getting Started 
 
@@ -27,3 +28,19 @@ sh $dataset_train.sh
 Before start to train, make sure all the settings such as involved loss functions, their weights, and etc are the ones you would want. 
 
 <!-- Also note that currently only `CIFAR10` dataset has all the training data.   -->
+
+
+## Citations
+
+Please cite our paper:
+
+```
+@inproceedings{souri2024identifying,
+  title={Identifying Attack-Specific Signatures in Adversarial Examples},
+  author={Souri, Hossein and Khorramshahi, Pirazh and Lau, Chun Pong and Goldblum, Micah and Chellappa, Rama},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={7050--7054},
+  year={2024},
+  organization={IEEE}
+}
+```
